@@ -28,7 +28,7 @@ export default {
 				'neutral-section': '#F0F0F0',
 				'neutral-text': '#3B3B3B',
 				'warm-beige': '#C9C0B7',
-				'dusty-clay': '#C9A98E',
+				'dusty-clay': '#803d3d',
 				'soft-gray': '#6E7377',
 				
 				// Keep existing shadcn colors for compatibility
