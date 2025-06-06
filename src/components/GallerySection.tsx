@@ -3,12 +3,12 @@ import React from 'react';
 
 const GallerySection = () => {
   const galleryImages = [
-    "https://images.unsplash.com/photo-1487958449943-2429e8be8625?q=80&w=2000&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1433086966358-54859d0ed716?q=80&w=2000&auto=format&fit=crop", 
-    "https://images.unsplash.com/photo-1482938289607-e9573fc25ebb?q=80&w=2000&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1469474968028-56623f02e42e?q=80&w=2000&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1486718448742-163732cd1544?q=80&w=2000&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1487958449943-2429e8be8625?q=80&w=2000&auto=format&fit=crop"
+    "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?q=80&w=2000&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=2000&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=2000&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2000&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1460472178825-e5240623afd5?q=80&w=2000&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2000&auto=format&fit=crop"
   ];
 
   return (
@@ -19,7 +19,7 @@ const GallerySection = () => {
             Our Work Gallery
           </h2>
           <p className="font-lato text-lg text-neutral-text max-w-2xl mx-auto">
-            Browse through our portfolio of completed projects and see the quality craftsmanship we deliver
+            Browse through our portfolio of completed roofing projects and see the quality craftsmanship we deliver
           </p>
         </div>
 
