@@ -9,7 +9,7 @@ const HeroSection = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `linear-gradient(rgba(250, 250, 250, 0.7), rgba(250, 250, 250, 0.7)), url('https://images.unsplash.com/photo-1487958449943-2429e8be8625?q=80&w=6000&auto=format&fit=crop')`
+          backgroundImage: `linear-gradient(rgba(250, 250, 250, 0.7), rgba(250, 250, 250, 0.7)), url('https://st.hzcdn.com/simgs/pictures/exteriors/concord-ma-custom-home-affinity-builders-llc-img~10b1cf9507ebf389_8-1813-1-df6dce3.jpg')`
         }}
       />
       
