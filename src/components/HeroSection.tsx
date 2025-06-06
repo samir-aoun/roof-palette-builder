@@ -1,6 +1,7 @@
 
 import React from 'react';
 import { Button } from '@/components/ui/button';
+import heroImage from 'C:/Users/Laltitude 5410/Personal Projects/roof-palette-builder/assets/roof-home.jpg';
 
 const HeroSection = () => {
   return (
@@ -9,7 +10,7 @@ const HeroSection = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage: `linear-gradient(rgba(250, 250, 250, 0.4), rgba(250, 250, 250, 0.4)), url('https://st.hzcdn.com/simgs/pictures/exteriors/concord-ma-custom-home-affinity-builders-llc-img~10b1cf9507ebf389_8-1813-1-df6dce3.jpg')`
+          backgroundImage: `linear-gradient(rgba(250, 250, 250, 0.4), rgba(250, 250, 250, 0.4)), url(${heroImage})`
         }}
       />
       

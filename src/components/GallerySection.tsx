@@ -1,14 +1,25 @@
 
 import React from 'react';
+import fullShotRoofer from 'C:/Users/Laltitude 5410/Personal Projects/roof-palette-builder/assets/full-shot-roofers-working-together-with-helmets.jpg'
+import highAngleRoof from 'C:/Users/Laltitude 5410/Personal Projects/roof-palette-builder/assets/high-angle-beautiful-roof-wooden-house.jpg'
+import highAngleRoof1 from 'C:/Users/Laltitude 5410/Personal Projects/roof-palette-builder/assets/exterior-home.jpg'
+import highAngleWooden from 'C:/Users/Laltitude 5410/Personal Projects/roof-palette-builder/assets/high-angle-beautiful-wooden-house-with-new-roof.jpg'
+import longShotWood from 'C:/Users/Laltitude 5410/Personal Projects/roof-palette-builder/assets/long-shot-roofer-working-with-helmet.jpg'
+import newBrick from 'C:/Users/Laltitude 5410/Personal Projects/roof-palette-builder/assets/new-brick-house-with-modular-chimney-stone-coated-metal-roof-tile-plastic-windows-rain-gutter.jpg'
+import roofHome from 'C:/Users/Laltitude 5410/Personal Projects/roof-palette-builder/assets/roof-home.jpg'
+import sideWorker from 'C:/Users/Laltitude 5410/Personal Projects/roof-palette-builder/assets/side-view-man-working-roof-with-drill.jpg'
+
 
 const GallerySection = () => {
   const galleryImages = [
-    "https://images.unsplash.com/photo-1558618047-3c8c76ca7d13?q=80&w=2000&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1570129477492-45c003edd2be?q=80&w=2000&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1513694203232-719a280e022f?q=80&w=2000&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?q=80&w=2000&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1460472178825-e5240623afd5?q=80&w=2000&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1596394516093-501ba68a0ba6?q=80&w=2000&auto=format&fit=crop"
+    fullShotRoofer,
+    highAngleRoof,
+    highAngleRoof1,
+    highAngleWooden,
+    longShotWood,
+    newBrick,
+    roofHome,
+    sideWorker
   ];
 
   return (

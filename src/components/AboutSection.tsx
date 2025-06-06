@@ -1,6 +1,7 @@
 
 import React from 'react';
 import { CheckCircle } from 'lucide-react';
+import rooferWorking from 'C:/Users/Laltitude 5410/Personal Projects/roof-palette-builder/assets/long-shot-roofer-working-with-helmet.jpg'
 
 const AboutSection = () => {
   const trustIndicators = [
@@ -43,7 +44,7 @@ const AboutSection = () => {
           
           <div className="relative">
             <img 
-              src="https://images.unsplash.com/photo-1433086966358-54859d0ed716?q=80&w=4000&auto=format&fit=crop"
+              src={rooferWorking}
               alt="Professional roofing work"
               className="rounded-lg shadow-lg w-full h-96 object-cover"
             />
